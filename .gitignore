@@ -1,0 +1,8 @@
+.fable/
+.ionide/
+deploy/
+node_modules/
+paket-files/
+
+bin/
+obj/
